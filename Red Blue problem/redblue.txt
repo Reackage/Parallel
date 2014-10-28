@@ -1,0 +1,11 @@
+ >v v>vv >
+v >> >>v v
+    v>>> >
+v>vv>   v>
+> >vvv  > 
+ v>>>v>vvv
+  vv >>>vv
+ v>>  >> v
+  >vv>>>v>
+vv >  > >v
+p1 b10 t5 c90 m5 s7 i 1 96 0.00
